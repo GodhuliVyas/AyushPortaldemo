@@ -31,7 +31,7 @@ const Footer=() =>{
                                 <p>Contact Us</p>
                             </a>
                         </div>
-                        <div className="sb__fotter-links_div">
+                        <div className="sb__footer-links_div">
                             <h4>What We Do</h4>
                             <a href="/WhatWeDo">
                                 <p>Starter</p>
@@ -103,7 +103,7 @@ const Footer=() =>{
                         <div className="sb__footer-links">
                             <a href="/terms"><div><p>Terms and service</p></div></a>
                             <a href="/terms"><div><p>Privacy POlicy</p></div></a>
-                            <a href="/terms"><div><p>Editorial Prtners:xyz</p></div></a>
+                            <a href="/terms"><div><p>Editorial Partners:xyz</p></div></a>
                         </div>
                         </div>
                     </div>
